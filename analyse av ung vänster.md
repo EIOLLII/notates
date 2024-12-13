@@ -5,3 +5,11 @@ den reelle effekten av fsf kommer av frykt. kvinner er redd og de får se fsf so
 ung vanster må ha lokale engasjement som gjør sånn att folk får hjelp med det de trenger.
 
 ting folk trenger: 
+sosialt aksept og netverk / community
+"soft skills" om institusjoner
+produktivitetshacks
+syndebukker.
+helter å se opp til
+memes
+snakke om følelser
+hobbies
