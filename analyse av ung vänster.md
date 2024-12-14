@@ -6,6 +6,8 @@ ung vanster må ha lokale engasjement som gjør sånn att folk får hjelp med de
 
 ung vanster er 
 
+
+
 ## ting folk trenger: 
 - sosialt aksept og netverk / community
 - "soft skills" om institusjoner

@@ -25,7 +25,7 @@ Organisasjonens navn er Skeiv Ungdom Troms og forkortes SkU Troms. SkU Troms er 
 -  Leder    
 - Nestleder   
 - Økonomiansvarlig    
-- Inntil 4 styremedlemmer    
+- 1-4 styremedlemmer    
 - Inntil 4 vararepresentanter. 
 ### § 5 Ekstraordinært årsmøte 
 Ekstraordinært årsmøte skal avholdes når styret vedtar det eller når minst 5 av medlemmene i lokallaget krever det. 
@@ -101,10 +101,9 @@ På sosiale medier skal innlegg fra Skeiv Ungdom Troms skrives på minst 2 språ
 
 # notater
 
-se paragraf 11 oppløsning
-
+se paragraf 11 oppløsning, les nøye
 repetisjon i p3 og p12
-
+også det skal være mulig å endre vedtekter på ekstra årsmøte eller??? p10
 
 
 
