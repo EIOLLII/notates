@@ -1,4 +1,3 @@
 - [x] fikse vedtekter [[vedtekter skutr]] 📅 2024-12-14 ✅ 2024-12-14
-- [ ] fikse budsjett og sånnt 📅 2024-12-14 
-- [ ] sjekke att penger blir overført 📅 2024-12-15 
-- [ ] 
+- [ ] fikse budsjett og sånnt 📅 2024-12-17
+- [x] sjekke att penger blir overført 📅 2024-12-15 ✅ 2024-12-16
