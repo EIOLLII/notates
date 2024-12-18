@@ -17,12 +17,12 @@ ting å gjøre:
 - [x] nesta möta ⏳ 2024-12-02 📅 2024-12-02 ✅ 2024-12-02
 - [x] gjöra klar inför nästa mötet 📅 2024-11-30 ✅ 2024-11-30
 - [x] fixa mail 🛫 2024-11-30 ✅ 2024-11-30
-- [ ] neste møte 🛫 2024-12-16 
+- [x] neste møte 🛫 2024-12-16 ✅ 2024-12-17
 - [x] angiveri medelan potensielle samarbeid 📅 2024-12-04 ✅ 2024-12-09
 - [x] klubbrapport til motviljan 📅 2024-12-03 ✅ 2024-12-03
 - [x] kontakta sara g och thea g om demo 📅 2024-12-03 ✅ 2024-12-03
 - [x] sende schema på mail 📅 2024-12-03 ✅ 2024-12-03
-- [ ] finna filmen hedwig sa 📅 2024-12-16
+- [x] finna filmen hedwig sa 📅 2024-12-16 ✅ 2024-12-17
 - [ ] grundpass sosialism 📅 2025-01-13
 - [x] fråga nominerade 📅 2024-12-09 ✅ 2024-12-09
 - [ ] 
